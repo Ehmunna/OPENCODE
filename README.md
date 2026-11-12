@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Android-ARM64-green?style=for-the-badge&logo=android" alt="Android ARM64">
   <img src="https://img.shields.io/badge/Platform-Termux-blue?style=for-the-badge&logo=terminal" alt="Termux">
   <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source">
-</p>---
-   Features
+</p>
+  🤑 Features
 
 - 🚀 Android ARM64 Support
 - 📱 No Root Required
