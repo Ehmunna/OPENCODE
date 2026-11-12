@@ -1,4 +1,5 @@
-<h3 align="center">⚡ AI Coding Agent on Android</h3><p align="center">
+![logo](Screenshot_2026-11-12-14-50-38-442_com.termux.png)
+<h3 align="center"> AI Coding Agent on Android</h3><p align="center">
   Run OpenCode directly on Android using Termux.
   <br>
   No Root • No PC • No Kali Linux Required
