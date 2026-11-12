@@ -1,5 +1,3 @@
-🚀 OpenCode Termux
-
 <h3 align="center">⚡ AI Coding Agent on Android</h3><p align="center">
   Run OpenCode directly on Android using Termux.
   <br>
@@ -9,8 +7,7 @@
   <img src="https://img.shields.io/badge/Platform-Termux-blue?style=for-the-badge&logo=terminal" alt="Termux">
   <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge&logo=github" alt="Open Source">
 </p>---
-
-✨ Features
+   Features
 
 - 🚀 Android ARM64 Support
 - 📱 No Root Required
@@ -30,40 +27,40 @@
 ⚙️ Installation Guide
 
 Step 1: Update Termux
-
+```
 pkg update && pkg upgrade -y
-
+```
 Step 2: Install Required Packages
-
+```
 pkg install git curl tar -y
-
+```
 Step 3: Clone Repository
-
+```
 git clone https://github.com/C04-wq/opencode-termux.git
-
+```
 Step 4: Open Project Directory
-
+```
 cd opencode-termux
-
+```
 Step 5: Run Installer
-
+```
 bash install.sh
-
+```
 Wait until the installation is complete.
 
 🚀 Launch OpenCode
-
+```
 opencode
-
+```
 🔍 Check Installed Version
-
+```
 opencode --version
-
+```
 🔄 Update OpenCode
-
+```
 cd ~/opencode-termux
 bash install.sh
-
+```
 ⚠️ Important Notes
 
 - This installation method is designed for Android ARM64 devices running Termux.
